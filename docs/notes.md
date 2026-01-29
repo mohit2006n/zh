@@ -1,0 +1,3 @@
+- Learn git basics
+- Execute Linux commands
+- Master terminal skills
