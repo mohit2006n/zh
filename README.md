@@ -1,4 +1,4 @@
-# System Operations
+# System
 
 Use this folder to execute both **Git** and **Linux** commands!
 
